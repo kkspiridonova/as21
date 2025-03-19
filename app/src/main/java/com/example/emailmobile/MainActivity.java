@@ -57,8 +57,8 @@ public class MainActivity extends AppCompatActivity {
 
             String host = "smtp.gmail.com";
             String port = "587";
-            String username = "isip_k.k.spiridonova@mpt.ru";
-            String password = "RFVvfr10";
+            String username = "youremail@gamil.com";
+            String password = "yourpassword";
 
             Properties props = new Properties();
             props.put("mail.smtp.auth", "true");
